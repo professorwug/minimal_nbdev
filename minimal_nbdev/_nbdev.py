@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"Card": "00_card.ipynb"}
 
-modules = []
+modules = ["core.py"]
 
 doc_url = "https://professorwug.github.io/minimal_nbdev/"
 
